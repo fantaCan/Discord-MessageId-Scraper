@@ -11,6 +11,13 @@ function fantasPlayground(params) {
   }
 }
 ```
+## Usage
+
+To utilize this module, just provide the necessary authorization and get started
+```JS
+const token = "";
+const channelId = "";
+```
 
 ## Requirements
 
